@@ -5,7 +5,7 @@ Raccolta di appunti personali presi durante l'anno accademico, organizzati per c
 ## Contenuto
 
 Questo repository contiene appunti, sbobine e note personali relativi ai corsi
-del primo anno del corso di laurea in Matematica presso l'Universita di Pisa.
+del primo anno del corso di laurea in Ingegneria Informatica presso l'Universita di Pisa.
 
 ## Struttura
 
