@@ -6,7 +6,6 @@ Questa cartella raccoglie le soluzioni degli esami di **Fisica Generale 1** a cu
 
 - Testi degli esami (quando disponibili)
 - Soluzioni svolte passo-passo
-- Appunti e osservazioni utili per la risoluzione
 
 ## Struttura della cartella
 
